@@ -14,13 +14,13 @@ quartiles.
 - Travailler dans un environnement semblable à un environnement **professionnel**.
 
 ## Execution
-Pour démarrer le programme il suffit d'exécuter le fichier python **main.py**
+Pour démarrer le programme il suffit d'exécuter le fichier python `main.py`
 - Windows
-```
+```bash
 python main.py
 ```
 - MacOS & Linux
-```
+```bash
 python3 main.py
 ```
 
