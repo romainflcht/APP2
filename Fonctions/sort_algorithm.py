@@ -1,3 +1,5 @@
+# Copyright : romain_flcht
+
 def insertion_sort(data_to_sort: list) -> list:
     """
     Fonction qui execute un tri par insertion sur une liste mise en paramètre.
@@ -68,5 +70,3 @@ def fusion_sort(data_to_sort: list) -> list:
 
 if __name__ == '__main__':
     print('Ce script n\'est pas destiné a être executé seul, importez le dans un autre programme.')
-
-    print(fusion_sort())

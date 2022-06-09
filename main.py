@@ -1,3 +1,5 @@
+# Copyright : romain_flcht
+
 from Fonctions.parsing import parse_csv_file
 from Fonctions.utilities import calculate_dist
 from Fonctions.sort_algorithm import insertion_sort, fusion_sort

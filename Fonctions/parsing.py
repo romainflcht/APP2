@@ -1,3 +1,5 @@
+# Copyright : romain_flcht
+
 from Fonctions.utilities import *
 from math import pi
 

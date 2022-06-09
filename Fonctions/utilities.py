@@ -1,4 +1,6 @@
-from math import sqrt, asin, sin, cos, pi
+# Copyright : romain_flcht
+
+from math import sqrt, asin, sin, cos
 
 EARTH_RADIUS = 6371
 
